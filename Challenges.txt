@@ -33,3 +33,12 @@ Advanced Challenges (21-30)
 28. Automated Malware Analysis (YARA Rules) – Scan for malware patterns using YARA.
 29. Browser Exploit Automation – Automate browser-based exploits with Selenium.
 30. AI-Based Intrusion Detection System – Implement a basic machine learning IDS.
+
+echo "# Hack-The-Python" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SuperEagleX/Hack-The-Python.git
+git push -u origin main
+
