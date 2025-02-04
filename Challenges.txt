@@ -1,0 +1,35 @@
+Beginner Challenges (1-10)
+1. Caesar Cipher – Implement encryption and decryption using the Caesar cipher.
+2. Base64 Encoder/Decoder – Create a script that encodes and decodes Base64 strings.
+3. Password Strength Checker – Check if a password is strong based on length, uppercase, lowercase, numbers, and symbols.
+4. Simple XOR Encryption – Encrypt and decrypt a message using XOR operation.
+5. MAC Address Generator – Generate random MAC addresses.
+6. Port Scanner – Scan open ports on a target machine.
+7. Hash Cracker (Dictionary Attack) – Crack MD5/SHA256 hashes using a wordlist.
+8. Basic Keylogger (Local) – Capture keystrokes and save them to a file.
+9. Packet Sniffer (Using Scapy) – Capture network packets and display protocol details.
+10. Subdomain Scanner – Enumerate subdomains using a list of common subdomains.
+
+Intermediate Challenges (11-20)
+11. Filesystem Monitor – Detect file modifications in a sensitive directory.
+12. Steganography (Image Encoding/Decoding) – Hide a message inside an image file.
+13. JWT Token Decoder – Decode JSON Web Tokens (JWT) and check for vulnerabilities.
+14. SSH Brute Force (Paramiko) – Attempt to brute force SSH login credentials.
+15. SQL Injection Testing Script – Automate testing for basic SQL injection vulnerabilities.
+16. Network Traffic Analyzer – Analyze live network traffic and filter specific packets.
+17. Web Scraper for Security Headers – Check if a website has proper security headers.
+18. Zip File Password Cracker – Brute-force password-protected ZIP files.
+19. DNS Spoofing Script – Redirect domain lookups to malicious IPs.
+20. MITM Attack Simulator – Create a man-in-the-middle attack simulator.
+
+Advanced Challenges (21-30)
+21. Malware Signature Scanner – Scan files for known malware signatures.
+22. Exploit Development (Buffer Overflow Example) – Create a basic buffer overflow exploit.
+23. Shellcode Encoder/Decoder – Convert shellcode between formats.
+24. TLS Certificate Extractor – Extract SSL/TLS certificates from a website.
+25. Advanced Reverse Shell (Using Sockets) – Build an encrypted reverse shell.
+26. Ransomware Simulation – Encrypt and decrypt files using a ransomware-like method.
+27. Custom Firewall (Packet Filtering with Scapy) – Block or allow traffic based on custom rules.
+28. Automated Malware Analysis (YARA Rules) – Scan for malware patterns using YARA.
+29. Browser Exploit Automation – Automate browser-based exploits with Selenium.
+30. AI-Based Intrusion Detection System – Implement a basic machine learning IDS.
